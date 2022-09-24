@@ -1,3 +1,4 @@
 site_name: My Docs
 theme: material
 site_url: https://mathwyn.github.io/test
+docs_dir: docs/
